@@ -1,10 +1,10 @@
 ### Olá! Eu sou a Paloma Barroso 👋
 
-- 🎂 28 anos
-- 🗺️ Mineira
-- 🐶 Dona da Mel
-- 🚀 Estudante da trybe
-- 📧 email de contato: pbarroso15@gmail.com
+- 🎂  28 anos
+- 🗺️  Mineira
+- 🐶  Dona da Mel
+- 🚀  Estudante da trybe
+- 📧  email de contato: pbarroso15@gmail.com
 
 <div align="center">
   <a href="https://github.com/PalomaSBarroso">
