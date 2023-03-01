@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Paloma Barroso 👋
 
-- 🎂  28 anos
+- 🎂  29 anos
 - 🗺️  Mineira
 - 🐶  Dona da Mel
 - 🚀  Estudante da trybe
