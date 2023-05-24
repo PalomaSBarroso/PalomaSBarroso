@@ -12,13 +12,9 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaSBarroso&layout=compact&langs_count=7&theme=radical"/>
  </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Rafa-Ts" height="30" width="70" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Rafa-React" height="30" width="60" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Rafa-HTML" height="30" width="60" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="30" width="60" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="center" alt="Rafa-Csharp" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="Rafa-Csharp" height="30" width="60" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt=" " height="30" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt=" " height="30" width="70" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt=" " height="30" width="60" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   
 ##
  
